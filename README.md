@@ -3,13 +3,13 @@
 
 
 
-**Objectives**
+**Objectives 🏁**
 </br>
 > Arboresence des fichiers et répertoires</br> 
 > Types et caractéristiques des fichiers</br> 
 
 
-**Skills**
+**Skills 🏀🗑**
 </br>
 > Imperative programming</br> 
 > Algorithms & AI</br> 
