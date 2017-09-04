@@ -20,7 +20,7 @@
 Les projets à **42** sont soumis a un **programme automatique** impitoyable, et à des **étudiants** (encore plus cruels 😊), dont voici les commentaires sur ce projet:
 
 
- ![alt text]("https://github.com/mehdiSuperDev/ft_ls/blob/master/image/peer_correcting.png")
+ ![alt text](https://github.com/mehdiSuperDev/ft_ls/blob/master/image/peer_correcting.png "image peer correcting")
 
 
 
