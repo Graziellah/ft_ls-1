@@ -5,14 +5,14 @@
 ------
 **Objectives**
 </br>
-Arboresence des fichiers et répertoires 
-Types et caractéristiques des fichiers 
+Arboresence des fichiers et répertoires</br> 
+Types et caractéristiques des fichiers</br> 
 
 
 **Skills**
 </br>
-Imperative programming 
-Algorithms & AI 
+Imperative programming</br> 
+Algorithms & AI</br> 
 Unix
 
 
