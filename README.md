@@ -2,8 +2,8 @@
 # Reproduction de la commande "ls" ainsi que ses options -lrat 💻
 
 
-------
-**Objectives**
+
+**Objectives **
 </br>
 > Arboresence des fichiers et répertoires</br> 
 > Types et caractéristiques des fichiers</br> 
